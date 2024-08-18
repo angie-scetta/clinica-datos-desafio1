@@ -7,5 +7,5 @@ output: html_document
 
 # DESAFÍO N° 1
 
-En este archivo .Rmd resolveremos el desafío 1.
+En este archivo ".Rmd" resolveremos el desafío 1.
 
