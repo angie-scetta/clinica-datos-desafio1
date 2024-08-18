@@ -5,7 +5,7 @@ date: '2024'
 output: html_document
 ---
 
-# DESAFÍO GRUPAL 1 - MPP
+# DESAFÍO GRUPAL 1 - MPP y MEU
 
 En este archivo ".Rmd" resolveremos el desafío 1.
 
